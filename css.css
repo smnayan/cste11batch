@@ -1,0 +1,271 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-image: url(nayan.jpeg);
+}
+.first{
+	height: 150px;
+	width:12%;
+	background-color:#34495e;
+	float:left;
+	margin-left:29px;
+	margin-top:10px;
+}
+.first img{
+	height:100%;
+	width:100%;
+}
+.second{
+	height: 150px;
+	width:81%;
+	background-color:#2c3e50;
+	float:left;
+	margin-top:10px;
+}
+.second h1{
+	text-align:center;
+	display:inline-block;
+	margin-left:100px;
+	margin-top:10px;
+	color:white;
+}
+.second h1:hover{
+	background-color:#263238;
+}
+.second h2{
+	text-align:center;
+	
+}
+.second h3{
+	text-align:center;
+	
+}
+.third{
+	height: 150px;
+	width:12%;
+	background-color:blue;
+	margin-left:29px;
+	margin-top:10px;
+}.fourth{
+	height: 60px;
+	width:93%;
+	background-color:#263238;
+	margin-left:29px;
+}
+.fourth ul li{
+	margin:16px 0px;
+	padding:2px 18px;
+	display:inline-block;
+	text-align:center;
+	border-right:5px solid #212121;
+}
+.fourth ul li a{
+	color:white;
+	font-size:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+.fourth ul li:hover{
+	background:#455A64;
+}
+.fifth{
+	height: 700px;
+	width:18%;
+	background-color:#34495e;
+	float:left;
+	margin-left:29px;
+}
+.fifth fieldset{
+	margin:20px 20px 3px 5px;
+	color:red;
+	border:2px dotted green;
+	
+}
+.fifth h1{
+	color:yellow;
+	margin:80px 0 0 95px;
+}
+.cste h1{
+	color:yellow;
+	margin:80px 0 0 80px;
+}
+.sixth{
+	height: 700px;
+	width:75%;
+	background-color:#2c3e50;
+	float:left;
+}
+.sixth table tr{
+	height:40px;
+	
+}
+.sixth table tr th {
+	color:white;
+	text-decoration:none;
+}
+.sixth table tr th a{
+	color:white;
+	text-decoration:none;
+}
+.sixth table tr th{
+	border-right:2px dotted blue;
+}
+.sixth table tr th:hover{
+	background: yellow;
+}
+.sixth ul{
+	margin-left:10%;
+}
+.sixth h1{
+	color:Yellow;
+	margin:10px 0 30px 300px;
+	border-bottom:2px dotted green;
+	display:inline-block;
+}
+.sixth ul li{
+	margin:2%;
+}
+.sixth ul li a:hover{
+	background: blue;
+}
+.sixth ul li a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+	
+}
+.sixth table tr th a span{
+	color:green;
+}
+.sixth h2{
+	color:white;
+	margin:30px 0 25px 270px;
+	border-bottom:2px dotted blue;
+	display:inline-block;
+}
+.sixth p{
+	color:black;
+	font-size:20px;
+	margin:10px 25px 5px 25px;
+}
+.seventh{
+	height: 80px;
+	width:93%;
+	background-color:#263238;
+	float:left;
+	margin-left:29px;
+}
+.seventh marquee{
+	margin-top:30px;
+	color:white;
+	font-size:22px;
+}
+.seventh marquee span{
+	color:yellow;
+}
+.photo{
+	height:500px;
+	width:30%;
+	margin-left:29px;
+	background-color:darkgray;
+	float:left;
+}
+.details{
+	height:500px;
+	width:63%;
+	background-color:gray;
+	float:left;
+}
+.details h1{
+	margin-top:5%;
+	color:blue;
+	border-bottom:2px dotted violet;
+}
+.details h3{
+	margin:1%;
+	color:black;
+	margin-left:10%;
+	text-decoration:none;
+}
+.details h3 a{
+	text-decoration:none;
+	color:brown;
+}
+.details h3 span{
+	color:green;
+}
+.cste{
+	height: 700px;
+	width:18%;
+	background-color:#34495e;
+	float:left;
+	margin-left:29px;
+}
+
+.course{
+	height: 700px;
+	width:75%;
+	background-color:#2c3e50;
+	float:left;
+}
+.course h2{
+	margin:30px 0 20px 300px;
+	color:white;
+	border-bottom:2px dotted red;
+	display:inline-block;
+}
+.course table{
+	margin-left:70px;
+	border-left:2px solid green;
+	border-top:2px solid green;
+}
+.course table tr{
+	height:40px;
+	
+}
+.course table tr th{
+	color:white;
+	border-right:2px dotted yellow;
+	border-bottom:2px dotted yellow;
+}
+.course table tr td{
+	color:white;
+	border-right:2px dotted yellow;
+	margin:20px;
+	border-bottom:2px dotted yellow;
+}
+.course h3 a{
+	color:red;
+	text-decoration:none;
+	margin:909px 0 0 50px;
+}
+.eighth{
+	height: 500px;
+	width:45%;
+	background-color:#34495e;
+	float:left;
+	margin-left:29px;
+}
+.eighth h3{
+	color:white;
+	margin:100px 5px 0 40px;
+}
+.ninth{
+	height: 500px;
+	width:48%;
+	background-color:#2c3e50;
+	float:left;
+}
+.ninth img{
+	margin:40px 0 0 60px;
+}
+.ninth h3{
+	margin:20px 0 0 60px;
+	color:white;
+}
+.ninth p{
+	margin:1px 0 0 60px;
+	color:white;
+}
