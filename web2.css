@@ -1,0 +1,41 @@
+.first-div{
+    height: 120px;
+	width:10%;
+	background-color:blue;	
+	float:left;
+}
+/*.first-div h1{
+	color:red;
+    text-align:center;
+}*/
+.first-div img{
+	border-radius:30%;
+	height:100%;
+	width:100%;
+}
+.second-div	{
+	
+	height:120px;
+	width:90%;
+	background-color:blue;
+	float:left;
+}
+.nayan{
+	height:180px;
+	width:100%;
+	background-color:black;
+}	
+.first{
+	height:600px;
+	width:20%;
+	background-color:red;
+	float:left;
+	
+}
+.second{
+	height:600px;
+	width:80%;
+	background-color:green;
+	float:left;
+	
+}

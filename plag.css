@@ -1,0 +1,22 @@
+*{
+   margin:0;
+   padding:0;
+}
+body{
+	background-image: url(nayan.jpg);
+	
+}
+.first{
+	height:280px;
+	width:500px;
+	background-color:#039BE5;
+	margin-top:60px;
+	margin-left:100px;
+	
+}
+.first img{
+	height:160px;
+	margin-left:38%;
+	margin-top:62px;
+	border-radius:30%;
+}
